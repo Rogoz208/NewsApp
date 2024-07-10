@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Toolbar Menu-->
+    <string name="toolbar_menu_search">Search</string>
+    <string name="toolbar_menu_filter">Filter</string>
+</resources>

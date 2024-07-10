@@ -1,0 +1,11 @@
+package com.rogoz208.feature_saved.recycler
+
+import android.view.View
+import com.rogoz208.mobile_common.model.ArticleUI
+
+interface OnSavedArticleItemClickListener {
+
+    fun onArticleClick(item: ArticleUI, position: Int)
+
+    fun onArticleLongClick(item: ArticleUI, itemView: View, position: Int)
+}

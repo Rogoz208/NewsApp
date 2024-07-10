@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MySearchView" parent="">
+        <item name="colorSurfaceContainerHigh">@color/light_primary_60</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorOnSurfaceVariant">@color/white</item>
+        <item name="colorOutline">@color/white</item>
+    </style>
+
+    <style name="MyToolbarTheme" parent="">
+        <item name="android:colorControlNormal">@color/white</item>
+    </style>
+</resources>

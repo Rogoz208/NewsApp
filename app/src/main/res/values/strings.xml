@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News APP</string>
+
+    <!--    Bottom Navigation Menu-->
+    <string name="bottom_navigation_menu_headlines">Headlines</string>
+    <string name="bottom_navigation_menu_saved">Saved</string>
+    <string name="bottom_navigation_menu_sources">Sources</string>
+</resources>

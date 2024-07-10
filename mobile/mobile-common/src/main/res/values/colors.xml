@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_primary_10">#FF001F27</color>
+    <color name="light_primary_40">#FF00677C</color>
+    <color name="light_primary_50">#FF00829C</color>
+    <color name="light_primary_60">#FF009EBD</color>
+    <color name="light_primary_90">#FFB1ECFF</color>
+    <color name="light_primary_100">@color/white</color>
+
+    <color name="light_secondary_10">#FF061E25</color>
+    <color name="light_secondary_40">#FF4B626A</color>
+    <color name="light_secondary_90">#FFCEE7F0</color>
+    <color name="light_secondary_100">@color/white</color>
+
+    <color name="light_tertiary_10">#FF151937</color>
+    <color name="light_tertiary_40">#FF585C7E</color>
+    <color name="light_tertiary_90">#FFDFE0FF</color>
+    <color name="light_tertiary_100">@color/white</color>
+
+    <color name="light_error_10">#FF410002</color>
+    <color name="light_error_40">#FFBA1A1A</color>
+    <color name="light_error_90">#FFFFDAD6</color>
+    <color name="light_error_100">@color/white</color>
+
+    <color name="light_neutral_10">#FF191C1D</color>
+    <color name="light_neutral_99">#FFFBFCFE</color>
+
+    <color name="light_neutral_variant_30">#FF40484B</color>
+    <color name="light_neutral_variant_50">#FF70787C</color>
+    <color name="light_neutral_variant_80">#FFBFC8CC</color>
+    <color name="light_neutral_variant_90">#FFDBE4E8</color>
+    <color name="light_neutral_variant_99">#FFF8F9FB</color>
+</resources>

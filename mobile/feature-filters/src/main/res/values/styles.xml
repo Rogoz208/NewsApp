@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeMaterialCalendar" parent="ThemeOverlay.Material3.MaterialCalendar">
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>

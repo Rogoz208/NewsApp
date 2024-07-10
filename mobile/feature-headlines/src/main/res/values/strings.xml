@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News APP</string>
+
+    <!--    Headlines Tab Menu-->
+    <string name="headlines_tab_menu_general">General</string>
+    <string name="headlines_tab_menu_business">Business</string>
+    <string name="headlines_tab_menu_science">Science</string>
+    <string name="headlines_tab_menu_health">Health</string>
+    <string name="headlines_tab_menu_entertaiment">Entertaiment</string>
+    <string name="headlines_tab_menu_technology">Technology</string>
+    <string name="headlines_tab_menu_sport">Sport</string>
+</resources>

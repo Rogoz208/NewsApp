@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_menu_item_headlines"
+        android:icon="@drawable/ic_headlines_24dp"
+        android:title="@string/bottom_navigation_menu_headlines" />
+
+    <item
+        android:id="@+id/bottom_menu_item_saved"
+        android:icon="@drawable/ic_saved_24dp"
+        android:title="@string/bottom_navigation_menu_saved" />
+
+    <item
+        android:id="@+id/bottom_menu_item_sources"
+        android:icon="@drawable/ic_sources_24dp"
+        android:title="@string/bottom_navigation_menu_sources" />
+</menu>
